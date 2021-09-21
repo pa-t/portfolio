@@ -6,7 +6,7 @@
 - Has source code and testing scripts within /src and /test respectively
 
 
-## /tx_traverse
+## /btc_tx_traverse
 
 - Initial POC to traverse transactions on the bitcoin network and create a mapped graph of addresses with intersecting transactions
 
